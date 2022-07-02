@@ -3,7 +3,7 @@
 
 This is a demo Responsive Resume.
 I used my basic HTML and CSS knowledge to develop this webpage.
-This project help us to understand the use of basic HTML tags like multiple <div>,<section> etc.
+This project help us to understand the use of basic HTML tags like multiple div,section tags etc.
 and CSS @media queries.
 The main motive is to make it Responsive.
 
